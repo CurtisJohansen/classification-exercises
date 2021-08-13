@@ -1,8 +1,8 @@
 env.py
 
-iris.csv
+*.xlsx
 
-titanic.csv
+*.csv
 
 .ipynb_checkpoints/
  
